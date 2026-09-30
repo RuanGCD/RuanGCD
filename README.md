@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá! Eu sou o Ruan 👋
 
-<!--
-**RuanGCD/RuanGCD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou me preparando
+para atuar como desenvolvedor.
 
-Here are some ideas to get you started:
+## Atualmente estudando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Spring Boot
+- APIs REST
+- MySQL
+- React
+- JavaScript
+- Unity / Game Development
+
+## 📌 Projetos principais
+
+### 🎲 RPG VTT
+Plataforma virtual de mesa para RPG, com fichas de personagens,
+salas e comunicação em tempo real.
+
+### 🏎️ KartIA
+Aplicação desenvolvida para gerenciamento e acompanhamento
+de corridas de kart.
+
+## 🎯 Objetivo
+
+Continuar desenvolvendo projetos práticos e evoluindo meus conhecimentos
+em desenvolvimento de software.
